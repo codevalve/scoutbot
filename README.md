@@ -11,3 +11,11 @@
 ## Repo Structure
 
 See /docs and /src for technical details, BOM, and build guides.
+
+## Visual Overview
+
+![ScoutBot Body Concept](/images/doc-shots/scout-ii-mini-droid.png)
+*Early concept for a compact body shell inspired by Star Wars droids*
+
+![ScoutBot Platform Deck](/images/doc-shots/scout-ii-robo-deck.png)
+*3D-rendered prototype of the flat deck mounting system*
