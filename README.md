@@ -1,6 +1,6 @@
 # ScoutBot
 
-<img src="/images/scout-bot-logo.png)" style="width:50%;" />
+<img src="/images/scout-bot-logo.png" style="width:50%;" />
 
 **ScoutBot** is an open-source backyard patrol robot platform based on the Redcat Ascent-18 Scout II RC crawler. It combines FPV-style remote viewing with modular autonomous features. This project is designed to evolve in phases, starting with analog FPV and expanding into fully autonomous navigation.
 
